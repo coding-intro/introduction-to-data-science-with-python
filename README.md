@@ -1,7 +1,7 @@
 # Introduction to Data Science with Python
 
 This repository contains all materials for the course *Introduction to Data Science with Python*, offered for GRADE Brain and other GRADE Centers at Goethe University.
-Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/intro-python-2023-11/).
+Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/intro-python-2024-06/).
 
 # Course Objective
 
@@ -37,4 +37,5 @@ If you have any questions, please reach out to one of us through the e-mail addr
 # Trainers
 
 -   Thilo Kraft, Ph.D. Student in Quantitative Marketing
--   Jan Bischoff, Master Student in Marketing Analytics, R/Python Teacher and Course Designer at TechAcademy e.V.
+-   Jan Bischoff, Master Student in International Management, R/Python Teacher and Course Designer at TechAcademy e.V.
+-   Tomas Dutra Schmidt, Ph.D. Student in Economics
