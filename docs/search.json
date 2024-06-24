@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Introduction to Data Science with Python",
     "section": "",
-    "text": "Welcome\nWelcome to the course website for\nIntroduction to Data Science with Python\noffered for GRADE Brain and other GRADE Centers at Goethe University in June 2024. This website serves as the central repository for all course materials. Here, you will find all slides, lecture materials, and links to your online development environment."
+    "text": "Welcome\nWelcome to the course website for\nIntroduction to Data Science with Python\nThis website serves as the central repository for all course materials. Here, you will find all slides, lecture materials, and links to your online development environment."
   },
   {
     "objectID": "index.html#course-objective",
@@ -25,14 +25,14 @@
     "href": "index.html#course-organization-and-schedule",
     "title": "Introduction to Data Science with Python",
     "section": "Course Organization and Schedule",
-    "text": "Course Organization and Schedule\nWe will meet on June 14, 2024.\nThis workshop alternates between lecture-style presentations and application exercises. We aim to adhere to the following schedule:\n\n\n\n\n\n\n\n\n\n\nPart\nContent\nDate\n\n\n\n\n\n\n1\nCourse Introduction and Case Study\n14.06.2024\n\n\n\n\n2\nFundamentals of Python\n14.06.2024\n\n\n\n\n3\nData wrangling and visualizations using pandas and matplotlib\n21.06.2024\n\n\n\n\n4\nAdvanced visualizations with seaborn, modeling with scikit-learn\n21.06.2024\n\n\n\n\n\nWe want you to make your hands dirty — that means we want you to code! Just following along fancy slides won’t magically transfer the skill of coding to you. But you actively engaging with the course content in your development environment will more likely do just that.\nThat’s why we need you to prepare accordingly: Please ensure that you have access to Google Colab before the course. We will use Google Colab for the coding parts, such that we can use Python without (sometimes time-consuming) pre-configuration or installation on your machine. To use Google colab, you need a Google account (same account which is used for Gmail, YouTube, etc.)\nIf you have any questions, please reach out to one of us through the e-mail addresses on the bottom of this page.\nTrainers\n\nFeel free to reach out to us by e-mail if you have any questions before, during, or after the course:\n\nThilo Kraft, Ph.D. Student in Quantitative Marketing, send me an email\nJan Bischoff, Master International Management, send me an email\nTomas Dutra Schmidt, Ph.D. Student in Economics, send me an email"
+    "text": "Course Organization and Schedule\nWe will meet on June 14, 2024.\nThe courses is structured in four parts. The four parts are based on each other but can also be used as reference by people with prior experience with Python.\n\n\n\n\n\n\n\n\n\n\nPart\nContent\n\n\n\n\n\n\n\n1\nCourse Introduction and Case Study\n\n\n\n\n\n2\nFundamentals of Python\n\n\n\n\n\n3\nData wrangling and visualizations using pandas and matplotlib\n\n\n\n\n\n4\nAdvanced visualizations with seaborn, modeling with scikit-learn\n\n\n\n\n\n\nWe want you to make your hands dirty — that means we want you to code! Just following along fancy slides won’t magically transfer the skill of coding to you. But you actively engaging with the course content in your development environment will more likely do just that.\nThat’s why we need you to prepare accordingly: Please ensure that you have access to Google Colab before the course. We will use Google Colab for the coding parts, such that we can use Python without (sometimes time-consuming) pre-configuration or installation on your machine. To use Google colab, you need a Google account (same account which is used for Gmail, YouTube, etc.)\nIf you have any questions, please reach out to one of us through the e-mail addresses on the bottom of this page."
   },
   {
     "objectID": "index.html#acknowledements",
     "href": "index.html#acknowledements",
     "title": "Introduction to Data Science with Python",
     "section": "Acknowledements",
-    "text": "Acknowledements\n\nWe gratefully acknowledge funding through the project DigiTeLL at Goethe University Frankfurt (partnership Coding Intro).\nThanks to Felix Schneider (Github), who initially developed this course and granted permission adapt and use the course materials.\nThe case study used as motivation is built upon material from datasciencebox.org by Mine Çetinkaya-Rundel."
+    "text": "Acknowledements\n\nThanks to Felix Schneider (Github), who initially developed this course and granted permission adapt and use the course materials.\nThe case study used as motivation is built upon material from datasciencebox.org by Mine Çetinkaya-Rundel."
   },
   {
     "objectID": "01-fundamentals-of-python.html#lecture-notes",
@@ -102,7 +102,7 @@
     "href": "99-next-steps.html",
     "title": "Next Steps",
     "section": "",
-    "text": "Thanks for attending our course Introduction to Data Science with Python. We hope you enjoyed this glimpse into one of the most widely used programming languages for Data Science, and many applications beyond.\nWe would love to hear your feedback on this course and the course format. If you would like to send additional feedback, please send a short email to Lukas Jürgensmeier (send me an email).\nThanks again for your time! We hope that you will find your newly acquired skills helpful in future projects."
+    "text": "Thanks for attending our course Introduction to Data Science with Python. We hope you enjoyed this glimpse into one of the most widely used programming languages for Data Science, and many applications beyond.\nIf you want to dive deeper into this exciting field you can check out one of the many amazing free data science websites. For starters check out Kaggle.\nThanks again for your time! We hope that you will find your newly acquired skills helpful in future projects."
   },
   {
     "objectID": "00-introduction-to-python.html#lecture-notes",

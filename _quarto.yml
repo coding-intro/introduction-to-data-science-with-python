@@ -4,8 +4,6 @@ project:
 
 book:
   title: "Introduction to Data Science with Python"
-  author: "Jan Bischoff"
-  date: "June 10, 2024"
   # description: "A one-day workshop introducing you to the Python programming language for Data Science"
   chapters:
     - index.qmd
@@ -14,12 +12,8 @@ book:
     - 03-data-wrangling-visualization.qmd
     - 04-advanced-visualization-modeling.qmd
     - 99-next-steps.qmd
-  # logo: files/logo.png
-  # sidebar:
-  #   tools:
-  #     - icon: box-arrow-up-right
-  #       href: https://lukas-juergensmeier.com/
-github-repo: coding-intro/intro-python-2024-06
+
+github-repo: coding-intro/introduction-to-data-science-with-python
 
 #bibliography: references.bib
 
