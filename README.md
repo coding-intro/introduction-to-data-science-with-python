@@ -1,7 +1,7 @@
 # Introduction to Data Science with Python
 
 This repository contains all materials for the course *Introduction to Data Science with Python*, offered for GRADE Brain and other GRADE Centers at Goethe University.
-Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/intro-python-2024-06/).
+Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/introduction-to-data-science-with-python/).
 
 # Course Objective
 
