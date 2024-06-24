@@ -37,12 +37,10 @@ This course introduces:
 
 ## Course Organization and Schedule
 
-We will meet on June 14, 2024. 
-
 The courses is structured in four parts. The four parts are based on each other but can also be used as reference by people with prior experience with Python.
 
 | Part | Content                                                                                                                                           
-|-------------|-------------------|-------------|-------------|-------------|
+|------|------------------------------------------------------------------|
 | 1    | Course Introduction and Case Study                              
 | 2    | Fundamentals of Python                                           
 | 3    | Data wrangling and visualizations using pandas and matplotlib
